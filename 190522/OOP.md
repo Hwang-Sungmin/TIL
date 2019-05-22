@@ -4,14 +4,17 @@ object oriented anaylisis & design
 
 
 
-### oop
+### OOP
 
- 1) OOAD - UML
- 2) OOP - Java or C++
- 3) class and object
- 4) attribute, constructor, fuction		
+### 1. OOAD - UML
 
+### 2. OOP - Java or C++	
 
+### 3. class and object
+
+### 4. attribute, constructor, function
+
+### 
 
 ## oop2
 
