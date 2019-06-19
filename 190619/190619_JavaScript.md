@@ -240,6 +240,6 @@ JavaScript는 리턴 타입이 var 다 똑같아서.. 리턴 type가 따로 없�
         <input readonly="readonly" type="text" id="display"><br>
         <input readonly="readonly" type="text" id="display2">
     </form>
-</body>1
+</body>
 ~~~~
 
